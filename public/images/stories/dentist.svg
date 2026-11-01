@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="Clinic illustration">
+  <defs>
+    <linearGradient id="bg-dentist" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0e2a3f"/>
+      <stop offset="0.55" stop-color="#1e4a63"/>
+      <stop offset="1" stop-color="#7c5a3c"/>
+    </linearGradient>
+    <radialGradient id="glow-dentist" cx="0.78" cy="0.18" r="0.7">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots-dentist" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.2" fill="#ffffff" opacity="0.07"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg-dentist)"/>
+  <rect width="1600" height="900" fill="url(#dots-dentist)"/>
+  <rect width="1600" height="900" fill="url(#glow-dentist)"/>
+  <g fill="none" stroke="#ffffff" stroke-opacity="0.4" stroke-width="2.5">
+  <path d="M180 760V470a130 130 0 0 1 260 0v290"/>
+  <path d="M500 760V420a160 160 0 0 1 320 0v340"/>
+  <path d="M1280 760V500a120 120 0 0 1 240 0v260"/>
+  <path d="M140 800h1320" stroke-opacity="0.27999999999999997"/>
+</g>
+<circle cx="1180" cy="200" r="86" fill="#e8c98f" opacity="0.25"/>
+<circle cx="1180" cy="200" r="52" fill="#e8c98f" opacity="0.35"/>
+  <rect x="0" y="770" width="1600" height="130" fill="#0b1218" opacity="0.18"/>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="Arabic school illustration">
+  <defs>
+    <linearGradient id="bg-arabic-school" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1d2233"/>
+      <stop offset="0.55" stop-color="#33405c"/>
+      <stop offset="1" stop-color="#7a5a3c"/>
+    </linearGradient>
+    <radialGradient id="glow-arabic-school" cx="0.78" cy="0.18" r="0.7">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots-arabic-school" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.2" fill="#ffffff" opacity="0.07"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg-arabic-school)"/>
+  <rect width="1600" height="900" fill="url(#dots-arabic-school)"/>
+  <rect width="1600" height="900" fill="url(#glow-arabic-school)"/>
+  <g fill="none" stroke="#ffffff" stroke-opacity="0.5" stroke-width="3">
+  <path d="M800 330c-90-60-210-70-300-40v380c90-30 210-20 300 40 90-60 210-70 300-40V290c-90-30-210-20-300 40Z"/>
+  <path d="M800 330v380"/>
+  <path d="M570 400h130M570 470h130M900 400h130M900 470h130"/>
+</g>
+<g fill="#e8c98f" opacity="0.25"><circle cx="1230" cy="620" r="10"/><circle cx="1290" cy="620" r="10"/><circle cx="1260" cy="670" r="10"/></g>
+  <rect x="0" y="770" width="1600" height="130" fill="#0b1218" opacity="0.18"/>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="Independence celebration illustration">
+  <defs>
+    <linearGradient id="bg-independence" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1a2026"/>
+      <stop offset="0.55" stop-color="#3a1f26"/>
+      <stop offset="1" stop-color="#0f3a2a"/>
+    </linearGradient>
+    <radialGradient id="glow-independence" cx="0.78" cy="0.18" r="0.7">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots-independence" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.2" fill="#ffffff" opacity="0.07"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg-independence)"/>
+  <rect width="1600" height="900" fill="url(#dots-independence)"/>
+  <rect width="1600" height="900" fill="url(#glow-independence)"/>
+  <g opacity="0.9">
+  <rect x="360" y="240" width="880" height="420" rx="12" fill="#ffffff" opacity="0.08"/>
+  <rect x="360" y="240" width="880" height="140" fill="#c8102e" opacity="0.55"/>
+  <rect x="360" y="520" width="880" height="140" fill="#1a7a4c" opacity="0.5"/>
+  <path d="M760 420a72 72 0 1 0 38 100 62 62 0 0 1-38-100Z" fill="#ffffff" opacity="0.9"/>
+  <path d="m840 470 9 24 24 9-24 9-9 24-9-24-24-9 24-9Z" fill="#ffffff" opacity="0.9"/>
+</g>
+<g fill="none" stroke="#ffffff" stroke-opacity="0.315" stroke-width="2"><circle cx="800" cy="450" r="290"/></g>
+  <rect x="0" y="770" width="1600" height="130" fill="#0b1218" opacity="0.18"/>
+</svg>

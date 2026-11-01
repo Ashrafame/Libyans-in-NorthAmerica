@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="Eid celebration illustration">
+  <defs>
+    <linearGradient id="bg-eid" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a1f2c"/>
+      <stop offset="0.55" stop-color="#123a4a"/>
+      <stop offset="1" stop-color="#7a5a2e"/>
+    </linearGradient>
+    <radialGradient id="glow-eid" cx="0.78" cy="0.18" r="0.7">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots-eid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.2" fill="#ffffff" opacity="0.07"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg-eid)"/>
+  <rect width="1600" height="900" fill="url(#dots-eid)"/>
+  <rect width="1600" height="900" fill="url(#glow-eid)"/>
+  <g fill="#e8c98f" opacity="0.85">
+  <path d="M980 190a150 150 0 1 0 78 206 128 128 0 0 1-78-206Z"/>
+  <path d="m1120 300 14 38 38 14-38 14-14 38-14-38-38-14 38-14Z"/>
+</g>
+<g fill="none" stroke="#ffffff" stroke-opacity="0.595" stroke-width="2.5">
+  <path d="M200 720V500a110 110 0 0 1 220 0v220"/>
+  <path d="M500 720V440a140 140 0 0 1 280 0v280"/>
+</g>
+<g fill="#ffffff" opacity="0.136">
+  <circle cx="300" cy="250" r="4"/><circle cx="420" cy="180" r="3"/><circle cx="1380" cy="620" r="4"/><circle cx="1280" cy="700" r="3"/>
+</g>
+  <rect x="0" y="770" width="1600" height="130" fill="#0b1218" opacity="0.18"/>
+</svg>

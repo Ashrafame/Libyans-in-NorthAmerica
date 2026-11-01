@@ -1,0 +1,14 @@
+node_modules
+.next
+.env*.local
+.env
+.data
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store
+.vercel
+
+# Raw third-party documentation supplied as reference (contains Stripe/Supabase
+# example keys and tokens that GitHub secret scanning blocks). Kept locally only.
+libyansstripe.md
+Libyanssupabase.md
